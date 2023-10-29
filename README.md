@@ -17,7 +17,7 @@ Clone this repository to your web server's document root.
 
 bash
 Copy code
-git clone https://github.com/yourusername/CRUD-PHP-MySQL.git
+git clone https://github.com/eshreef1/php-improved-crud.git
 Create a MySQL database and configure the database connection settings. You can do this by editing the dbConnection.php file.
 
 php
